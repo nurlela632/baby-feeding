@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nurlela632.github.io/baby-feeding/sitemap.xml
